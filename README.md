@@ -1,5 +1,5 @@
 
-# Weather-App using API    [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![made using api!](https://img.shields.io/badge/made%20using-API-1abc9c.svg)]  [![used postman](https://img.shields.io/badge/Used%20-Postman-1f425f.svg)](https://www.postman.com/api-platform/api-testing/)
+# Weather-App using API    [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![made using api!](https://img.shields.io/badge/made%20using-API-1abc9c.svg)]()  [![used postman](https://img.shields.io/badge/Used%20-Postman-1f425f.svg)](https://www.postman.com/api-platform/api-testing/)
 
 This is simple Weather Application which displays the detailed weather information of city/state/country. <br />
 <br />
