@@ -18,3 +18,4 @@ In this project, i have used Postman API Platform to parse json files and take r
 ### *screenshots*
 <!-- ![image](https://github.com/shivam2906/Weather-App/blob/main/weather_app.png) -->
 <img src="https://github.com/shivam2906/Weather-App/blob/main/weather_app.png" width="320" height="400"> <img src="https://github.com/shivam2906/Weather-App/blob/main/weather_app2.png" width="320" height="400"> <img src="https://github.com/shivam2906/Weather-App/blob/main/weather_app3.png" width="310" height="400">
+.
